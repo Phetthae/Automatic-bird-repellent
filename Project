@@ -1,3 +1,11 @@
+/*
+This is a mini project I did while studying. By this project is Simulation of automatic bird repellent 
+To divide the bird repellent phase into 3 main phases. Divided into 20-120cm 120-220cm 220-320cm, 
+each distance will have a different bird repellent sound. The music is pirate of the caribbean, Star War and Super Mario. 
+For creativity, you can customize it for use.
+
+You can use simulator by this linked : https://www.tinkercad.com/things/16X0UBoPXEd-automatic-bird-repellent
+*/
 #include <LiquidCrystal.h> 
 
 const int buzzer = 11; //Buzzer Pin 11
